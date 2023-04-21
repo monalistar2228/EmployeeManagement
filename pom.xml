@@ -11,6 +11,7 @@
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>ControllerToUI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+//This is done by the QA Sumit
 	<packaging>war</packaging>
 	<name>ControllerToUI</name>
 	<description>Demo project for Spring Boot</description>
